@@ -28,7 +28,7 @@ const Alert = ({ preview }: Props) => {
             </>
           ) : (
             <>
-              The source code for this blog is{' '}
+              The source code for this letter is{' '}
               <a
                 href={`https://github.com/otegami/letter`}
                 className="underline transition-colors duration-200 hover:text-blue-600"
