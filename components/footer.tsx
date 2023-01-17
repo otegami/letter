@@ -10,12 +10,6 @@ const Footer = () => {
           </h3>
           <div className="flex flex-col items-center justify-center lg:flex-row lg:pl-4 lg:w-1/2">
             <a
-              href="https://nextjs.org/docs/basic-features/pages"
-              className="px-12 py-3 mx-3 mb-6 font-bold text-white transition-colors duration-200 bg-black border border-black hover:bg-white hover:text-black lg:px-8 lg:mb-0"
-            >
-              Read Documentation
-            </a>
-            <a
               href={`https://github.com/otegami/letter`}
               className="mx-3 font-bold hover:underline"
             >
